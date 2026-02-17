@@ -6,6 +6,10 @@
 *.h5
 lab2/logs/*
 
+# secrets
+
+/secrets
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
